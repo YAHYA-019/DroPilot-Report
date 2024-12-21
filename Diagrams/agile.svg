@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g id="viewport-20241204145418361" class="svg-pan-zoom_viewport" transform="matrix(0.623298, 0, 0, 0.623298, -61.083779, 98.826089)" style="">
+    <g/>
+    <g text-anchor="middle" font-family="sans-serif" font-size="10" fill="none" transform="matrix(0.877455, 0, 0, 1, 213.475559, 458.000007)" class="grid" style="">
+      <path d="M0,-423V0H1130V-423" stroke="currentColor" class="domain" style="stroke-width: 0px;"/>
+      <g transform="translate(0,0)" opacity="1" class="tick" style="opacity: 0.8; shape-rendering: crispedges; stroke: rgb(211, 211, 211);">
+        <line y2="-423" stroke="currentColor"/>
+        <text style="fill: rgb(0, 0, 0); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 12.835px; line-height: 20.5359px; stroke: none; white-space: pre;" y="3" dy="1em"> Oct 2024</text>
+      </g>
+      <g transform="translate(138,0)" opacity="1" class="tick" style="opacity: 0.8; shape-rendering: crispedges; stroke: rgb(211, 211, 211);">
+        <line y2="-423" stroke="currentColor"/>
+        <text style="fill: rgb(0, 0, 0); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 12.835px; line-height: 20.5359px; stroke: none; white-space: pre;" y="3" dy="1em"> Nov 2024</text>
+      </g>
+      <g transform="translate(271,0)" opacity="1" class="tick" style="opacity: 0.8; shape-rendering: crispedges; stroke: rgb(211, 211, 211);">
+        <line y2="-423" stroke="currentColor"/>
+        <text style="fill: rgb(0, 0, 0); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 12.835px; line-height: 20.5359px; stroke: none; white-space: pre;" y="3" dy="1em"> Dec 2024</text>
+      </g>
+      <g transform="translate(409,0)" opacity="1" class="tick" style="opacity: 0.8; shape-rendering: crispedges; stroke: rgb(211, 211, 211);">
+        <line y2="-423" stroke="currentColor"/>
+        <text style="fill: rgb(0, 0, 0); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 12.835px; line-height: 20.5359px; stroke: none; white-space: pre;" y="3" dy="1em"> Jan 2025</text>
+      </g>
+      <g transform="translate(547,0)" opacity="1" class="tick" style="opacity: 0.8; shape-rendering: crispedges; stroke: rgb(211, 211, 211);">
+        <line y2="-423" stroke="currentColor"/>
+        <text style="fill: rgb(0, 0, 0); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 12.835px; line-height: 20.5359px; stroke: none; white-space: pre;" y="3" dy="1em"> Feb 2025</text>
+      </g>
+      <g transform="translate(672,0)" opacity="1" class="tick" style="opacity: 0.8; shape-rendering: crispedges; stroke: rgb(211, 211, 211);">
+        <line y2="-423" stroke="currentColor"/>
+        <text style="fill: rgb(0, 0, 0); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 12.835px; line-height: 20.5359px; stroke: none; white-space: pre;" y="3" dy="1em"> Mar 2025</text>
+      </g>
+      <g transform="translate(810,0)" opacity="1" class="tick" style="opacity: 0.8; shape-rendering: crispedges; stroke: rgb(211, 211, 211);">
+        <line y2="-423" stroke="currentColor"/>
+        <text style="fill: rgb(0, 0, 0); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 12.835px; line-height: 20.5359px; stroke: none; white-space: pre;" y="3" dy="1em"> Apr 2025</text>
+      </g>
+      <g transform="translate(943,0)" opacity="1" class="tick" style="opacity: 0.8; shape-rendering: crispedges; stroke: rgb(211, 211, 211);">
+        <line y2="-423" stroke="currentColor"/>
+        <text style="fill: rgb(0, 0, 0); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 12.835px; line-height: 20.5359px; stroke: none; white-space: pre;" y="3" dy="1em"> May 2025</text>
+      </g>
+      <g transform="translate(1081,0)" opacity="1" class="tick" style="opacity: 0.8; shape-rendering: crispedges; stroke: rgb(211, 211, 211);">
+        <line y2="-423" stroke="currentColor"/>
+        <text style="fill: rgb(0, 0, 0); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 12.835px; line-height: 20.5359px; stroke: none; white-space: pre;" y="3" dy="1em"> Jun 2025</text>
+      </g>
+    </g>
+    <g>
+      <rect class="section section0" height="24" width="1242.5" y="48" x="0" style="fill: rgb(110, 170, 73); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section0" height="24" width="1242.5" y="72" x="0" style="fill: rgb(110, 170, 73); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section0" height="24" width="1242.5" y="96" x="0" style="fill: rgb(110, 170, 73); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section1" height="24" width="1242.5" y="120" x="0" style="fill: rgb(255, 255, 255); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section1" height="24" width="1242.5" y="144" x="0" style="fill: rgb(255, 255, 255); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section1" height="24" width="1242.5" y="168" x="0" style="fill: rgb(255, 255, 255); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section2" height="24" width="1242.5" y="192" x="0" style="fill: rgb(110, 170, 73); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section2" height="24" width="1242.5" y="216" x="0" style="fill: rgb(110, 170, 73); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section2" height="24" width="1242.5" y="240" x="0" style="fill: rgb(110, 170, 73); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section3" height="24" width="1242.5" y="264" x="0" style="fill: rgb(255, 255, 255); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section3" height="24" width="1242.5" y="288" x="0" style="fill: rgb(255, 255, 255); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section3" height="24" width="1242.5" y="312" x="0" style="fill: rgb(255, 255, 255); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section0" height="24" width="1242.5" y="336" x="0" style="fill: rgb(110, 170, 73); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section0" height="24" width="1242.5" y="360" x="0" style="fill: rgb(110, 170, 73); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section1" height="24" width="1242.5" y="384" x="0" style="fill: rgb(255, 255, 255); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section1" height="24" width="1242.5" y="408" x="0" style="fill: rgb(255, 255, 255); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+      <rect class="section section1" height="24" width="1242.5" y="432" x="0" style="fill: rgb(255, 255, 255); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; opacity: 0.2;"/>
+    </g>
+    <g style="" transform="matrix(0.877346, 0, 0, 1, 148.77701, 0)">
+      <rect class="task task0" transform-origin="106px 60px" height="20" width="62" y="50" x="75" ry="3" rx="3" id="p1" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task0" transform-origin="168.5px 84px" height="20" width="63" y="74" x="137" ry="3" rx="3" id="p2" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task0" transform-origin="231px 108px" height="20" width="62" y="98" x="200" ry="3" rx="3" id="p3" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task1" transform-origin="293px 132px" height="20" width="62" y="122" x="262" ry="3" rx="3" id="d1" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task1" transform-origin="355px 156px" height="20" width="62" y="146" x="324" ry="3" rx="3" id="d2" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task1" transform-origin="417.5px 180px" height="20" width="63" y="170" x="386" ry="3" rx="3" id="d3" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task2" transform-origin="693.5px 204px" height="20" width="489" y="194" x="449" ry="3" rx="3" id="dev1" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task2" transform-origin="693.5px 228px" height="20" width="489" y="218" x="449" ry="3" rx="3" id="dev2" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task2" transform-origin="542.5px 252px" height="20" width="187" y="242" x="449" ry="3" rx="3" id="dev3" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task3" transform-origin="702.5px 276px" height="20" width="133" y="266" x="636" ry="3" rx="3" id="dev4" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task3" transform-origin="800px 300px" height="20" width="62" y="290" x="769" ry="3" rx="3" id="test1" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task3" transform-origin="862.5px 324px" height="20" width="63" y="314" x="831" ry="3" rx="3" id="test2" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task0" transform-origin="925px 348px" height="20" width="62" y="338" x="894" ry="3" rx="3" id="test3" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task0" transform-origin="987px 372px" height="20" width="62" y="362" x="956" ry="3" rx="3" id="deploy1" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task1" transform-origin="1049px 396px" height="20" width="62" y="386" x="1018" ry="3" rx="3" id="deploy2" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task1" transform-origin="1111.5px 420px" height="20" width="63" y="410" x="1080" ry="3" rx="3" id="doc3" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <rect class="task task1" transform-origin="1174px 444px" height="20" width="62" y="434" x="1143" ry="3" rx="3" id="f1" style="fill: rgb(72, 126, 58); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(19, 84, 12); stroke-width: 2px;"/>
+      <text class="taskTextOutsideRight taskTextOutside0  width-81.27587890625" y="63.5" x="142" font-size="11" id="p1-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 75.5398px 20.1231px;">Project Planning        </text>
+      <text class="taskTextOutsideRight taskTextOutside0  width-119.78662109375" y="87.5" x="205" font-size="11" id="p2-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 100.275px 27.3958px;">Requirements Gathering  </text>
+      <text class="taskTextOutsideRight taskTextOutside0  width-124.314453125" y="111.5" x="267" font-size="11" id="p3-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 119.422px 34.6686px;">Requirement Engineering </text>
+      <text class="taskTextOutsideRight taskTextOutside1  width-99.84440612792969" y="135.5" x="329" font-size="11" id="d1-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 134.763px 41.9413px;">System Architecture     </text>
+      <text class="taskTextOutsideRight taskTextOutside1  width-64.40625" y="159.5" x="391" font-size="11" id="d2-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 150.038px 49.214px;">UI/UX Design            </text>
+      <text class="taskTextOutsideRight taskTextOutside1  width-80.20833587646484" y="183.5" x="454" font-size="11" id="d3-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 165.89px 56.4867px;">Database Design    </text>
+      <text class="taskText taskText2  width-112.99089050292969" id="dev1-text" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11px; text-anchor: middle; white-space: pre;" x="1009.92" y="207.5">Frontend Development    </text>
+      <text class="taskText taskText2  width-109.66618347167969" id="dev2-text" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11px; text-anchor: middle; white-space: pre;" x="1009.92" y="231.5">Backend Development     </text>
+      <text class="taskText taskText2  width-105.63509368896484" id="dev3-text" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11px; text-anchor: middle; white-space: pre;" x="701.623" y="255.5">Web Scraping</text>
+      <text class="taskText taskText3  width-67.95833587646484" id="dev4-text" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11px; text-anchor: middle; white-space: pre;" x="825.043" y="279.5">AI Integration          </text>
+      <text class="taskText taskText3  width-58.7333984375" id="test1-text" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11px; paint-order: stroke markers; text-anchor: middle; white-space: pre;" x="885.963" y="303.5">Unit Testing            </text>
+      <text class="taskTextOutsideRight taskTextOutside3  width-92.51220703125" y="327.5" x="899" font-size="11" id="test2-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 305.322px 100.123px;">Integration Testing     </text>
+      <text class="taskTextOutsideRight taskTextOutside0  width-119.76513671875" y="351.5" x="961" font-size="11" id="test3-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 328.352px 107.396px;">User Acceptance Testing </text>
+      <text class="taskText taskText0  width-59.25309371948242" id="deploy1-text" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11px; text-anchor: middle; white-space: pre;" x="1074.83" y="375.5">Deployment              </text>
+      <text class="taskTextOutsideRight taskTextOutside1  width-125.03825378417969" y="399.5" x="1085" font-size="11" id="deploy2-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 367.576px 121.941px;">Post-Deployment Support </text>
+      <text class="taskTextOutsideLeft taskTextOutside1" y="423.5" x="1075" font-size="11" id="doc3-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 325.758px 129.214px; text-anchor: end;">Project Documentation   </text>m
+      <text class="taskTextOutsideLeft taskTextOutside1" y="447.5" x="1138" font-size="11" id="f1-text" style="white-space: pre; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; perspective-origin: 344.839px 136.487px; text-anchor: end;">Feedback &amp; Analysis     </text>
+    </g>
+    <g>
+      <text class="sectionTitle sectionTitle0" style="fill: rgb(51, 51, 51); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11.006px; line-height: 20.5359px; white-space: pre;"><tspan style="alignment-baseline: central;" x="10" y="86" dy="0em">Sprint 1: Planning &amp; Requirements</tspan></text>
+      <text class="sectionTitle sectionTitle1" style="fill: rgb(51, 51, 51); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11.006px; line-height: 20.5359px; white-space: pre;"><tspan style="alignment-baseline: central;" x="10" y="158" dy="0em">Sprint 2: Design</tspan></text>
+      <text class="sectionTitle sectionTitle2" style="fill: rgb(51, 51, 51); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11.006px; line-height: 20.5359px; white-space: pre;"><tspan style="alignment-baseline: central;" x="10" y="230" dy="0em">Sprint 3: Development</tspan></text>
+      <text class="sectionTitle sectionTitle3" style="fill: rgb(51, 51, 51); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11.006px; line-height: 20.5359px; white-space: pre;"><tspan style="alignment-baseline: central;" x="10" y="302" dy="0em">Sprint 4: AI Integration &amp; Testing</tspan></text>
+      <text class="sectionTitle sectionTitle0" style="fill: rgb(51, 51, 51); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11.006px; line-height: 20.5359px; white-space: pre;"><tspan style="alignment-baseline: central;" x="10" y="362" dy="0em">Sprint 5: Deployment &amp; Documentation</tspan></text>
+      <text class="sectionTitle sectionTitle1" style="fill: rgb(51, 51, 51); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 11.006px; line-height: 20.5359px; white-space: pre;"><tspan style="alignment-baseline: central;" x="10" y="422" dy="0em">Sprint 6: Post-Deployment &amp; Feedback</tspan></text>
+    </g>
+    <text class="titleText" y="25" x="640" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 18px; line-height: 28.8px; perspective-origin: 224.64px 8.75px; text-anchor: middle;">DroPilot Project Timeline</text>
+  </g>
+  <g id="svg-pan-zoom-controls" transform="matrix(0.75, 0, 0, 0.75, 476.305214, 336.001531)" class="svg-pan-zoom-control" style="cursor: pointer; fill-opacity: 0.333; font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px;">
+    <g id="svg-pan-zoom-zoom-in" transform="translate(30.5 5) scale(0.015)" class="svg-pan-zoom-control"/>
+    <g id="svg-pan-zoom-reset-pan-zoom" transform="translate(5 35) scale(0.4)" class="svg-pan-zoom-control">
+      <path d="M33.051,20.632c-0.742-0.406-1.854-0.609-3.338-0.609h-7.969v9.281h7.769c1.543,0,2.701-0.188,3.473-0.562c1.365-0.656,2.048-1.953,2.048-3.891C35.032,22.757,34.372,21.351,33.051,20.632z" class="svg-pan-zoom-control-element"/>
+    </g>
+    <g id="svg-pan-zoom-zoom-out" transform="translate(30.5 70) scale(0.015)" class="svg-pan-zoom-control"/>
+  </g>
+</svg>

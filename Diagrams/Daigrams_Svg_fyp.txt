@@ -1,0 +1,68 @@
+graph TD
+    A["Project Planning"] --> B["Requirements Gathering"]
+    B --> C["Requirement Engineering"]
+    C --> D["System Architecture"]
+    D --> E["UI/UX Design"]
+    D --> F["Database Design"]
+    E --> G["Frontend Development"]
+    F --> H["Backend Development"]
+    H --> I["Web Scraping Module"]
+    I --> J["AI Integration"]
+    G --> J
+    J --> K["Unit Testing"]
+    K --> L["Integration Testing"]
+    L --> M["User Acceptance Testing"]
+    M --> N["Deployment"]
+    N --> O["Post-Deployment Support"]
+    O --> P["Project Documentation"]
+    P --> Q["Feedback & Analysis"]
+
+graph LR
+    Start["Start"] --> A["Sprint 1: Planning & Requirements"]
+    A --> B["Sprint 2: Design"]
+    B --> C["Sprint 3: Development"]
+    C --> D["Sprint 4: AI Integration & Testing"]
+    C --> E["Sprint 5: Deployment & Documentation"]
+    D --> F["Sprint 6: Post-Deployment & Feedback"]
+    E --> F
+    F --> End["End"]
+
+
+
+
+gantt
+    title DroPilot Agile Project Timeline
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b '%y
+
+    section Sprint 1: Planning & Requirements
+    Project Planning        :p1, 2024-10-01, 14d
+    Requirements Gathering  :p2, after p1, 14d
+    Requirement Engineering :p3, after p2, 14d
+
+    section Sprint 2: Design
+    System Architecture     :d1, after p3, 14d
+    UI/UX Design            :d2, after d1, 14d
+    UI/UX Design Support    :d3, after d2, 14d
+
+    section Sprint 3: Core Development
+    Backend Development     :dev1, after d3, 42d
+    Frontend Development    :dev2, after d3, 42d
+    Web Scraping Module     :dev3, after d3, 28d
+
+    section Sprint 4: AI Integration & Testing
+    AI Model Integration    :dev4, after dev3, 14d
+    Unit Testing            :test1, after dev4, 14d
+    Integration Testing     :test2, after test1, 14d
+
+    section Sprint 5: Deployment & Documentation
+    User Acceptance Testing :test3, after test2, 14d
+    Deployment              :deploy1, after test3, 14d
+    Documentation (Arch)    :doc1, after deploy1, 14d
+    Documentation (Data)    :doc2, after doc1, 14d
+
+    section Sprint 6: Post-Deployment & Feedback
+    Post-Deployment Support :deploy2, after doc2, 14d
+    Documentation (Frontend):doc3, after deploy2, 14d
+    Project Documentation   :doc4, after doc3, 14d
+    Feedback & Analysis     :f1, after doc4, 14d

@@ -1,0 +1,35 @@
+sequenceDiagram
+    participant User
+    participant Store
+    participant DroPilot System
+    participant Supplier
+    participant PaymentGateway
+    participant AI Engine
+
+    User->>Store: Register/Login
+    Store->>DroPilot System: Authenticate User
+    DroPilot System->>User: Confirm Authentication
+    User->>Store: Create/Customize Store
+    Store->>DroPilot System: Store Setup Request
+    DroPilot System->>AI Engine: Generate Store Content
+    AI Engine->>DroPilot System: Return Generated Content
+    DroPilot System->>Store: Apply Store Settings
+    User->>Store: Manage Products
+    Store->>DroPilot System: Product Management Request
+    DroPilot System->>Supplier: Fetch Product Data
+    Supplier->>DroPilot System: Return Product Data
+    DroPilot System->>AI Engine: Enhance Product Descriptions
+    AI Engine->>DroPilot System: Return Enhanced Descriptions
+    DroPilot System->>Store: Update Product Listings
+    User->>Store: Place Order
+    Store->>DroPilot System: Process Order
+    DroPilot System->>PaymentGateway: Validate Payment
+    PaymentGateway->>DroPilot System: Confirm Payment
+    DroPilot System->>Supplier: Forward Order
+    Supplier->>DroPilot System: Confirm Order Receipt
+    DroPilot System->>Store: Update Order Status
+    Store->>User: Send Order Confirmation
+    User->>Store: Request Analytics
+    Store->>DroPilot System: Generate Reports
+    DroPilot System->>Store: Provide Analytics Data
+    Store->>User: Display Reports
